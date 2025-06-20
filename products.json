@@ -1,0 +1,211 @@
+{
+	"products":[
+		{
+			"id": 1,
+			"link": "google.com",
+			"brand": "Falltech",
+			"name": "Falltech Fall Protection Pass-Through Web Anchor Sling 12 Choker Style",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["new"]
+		},
+		{
+			"id": 2,
+			"link": "google.com",
+			"brand": "SPECTRA LASER",
+			"name": "Spectra LL100N Laser HR320 Receiver Alkaline Batterys",
+			"price": 124
+		},
+		{
+			"id": 3,
+			"link": "google.com",
+			"brand": "CORDOVA SAFETY",
+			"name": "Disposable Non-Toxic Dust & Filter Masks 50 per Box",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["sale"]
+		},
+		{
+			"id": 4,
+			"link": "google.com",
+			"brand": "PYRAMEX",
+			"name": "Pyramex Face Shield Visor Lens",
+			"price": 124,
+			"new_price": 99.95
+		},
+		{
+			"id": 5,
+			"link": "google.com",
+			"brand": "FALLTECH",
+			"name": "Falltech Basic Fall Protection Safety Harness with 6' Lanyard",
+			"price": 124,
+			"new_price": 99.95
+		},
+		{
+			"id": 6,
+			"link": "google.com",
+			"brand": "FALLTECH",
+			"name": "Falltech Contractor Series Safety Harness 1 D-Ring Universal Fit Harness One Size Fits Most",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["new","sale"]
+		},
+		{
+			"id": 7,
+			"link": "google.com",
+			"brand": "Falltech",
+			"name": "Falltech Contractor Series Safety Harness 3 D-Rings Universal Fit Harness One Size Fits Most",
+			"price": 124
+		},
+		{
+			"id": 8,
+			"link": "google.com",
+			"brand": "Falltech",
+			"name": "Falltech Contractor Series Safety Harness 3 D-Rings Universal Fit Harness One Size Fits Most",
+			"price": 100,
+			"new_price": 109.95,
+			"flags": ["new"]
+		},
+		{
+			"id": 9,
+			"link": "google.com",
+			"brand": "Falltech",
+			"name": "Falltech Basic Roofers Fall Protection Kit",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["new"]
+		},
+		{
+			"id": 10,
+			"link": "google.com",
+			"brand": "BOSS MANUFACTURING",
+			"name": "Boss Brown Jersey Work Gloves Fleece Lined Large 12 Per Pack",
+			"price": 124
+		},
+		{
+			"id": 11,
+			"link": "google.com",
+			"brand": "KRAFT TOOL",
+			"name": "Kraft Tool Concrete Finishing Broom 36\" Plastic Bristle",
+			"price": 124,
+			"new_price": 99.95
+		},
+		{
+			"id": 12,
+			"link": "google.com",
+			"brand": "Falltech",
+			"name": "Keson Blue Marking Flags Water Lines (100 per Bundle) 21\" Stake 2.5\" x 3.5\" Flag",
+			"price": 124
+		},
+		{
+			"id": 13,
+			"link": "google.com",
+			"brand": "SPECTRA LASER",
+			"name": "Spectra Laser Level Construction Duty Tripod",
+			"price": 124,
+			"new_price": 99.95
+		},
+		{
+			"id": 14,
+			"link": "google.com",
+			"brand": "KESON",
+			"name": "Keson Braided Nylon Mason Twine - 1000' Roll",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["new", "sale"]
+		},
+		{
+			"id": 15,
+			"link": "google.com",
+			"brand": "KESON",
+			"name": "Keson Pro Marking Chalk Red 8oz",
+			"price": 124
+		},
+		{
+			"id": 16,
+			"link": "google.com",
+			"brand": "W ROSE",
+			"name": "W Rose 1/2\" x 17\" Convex Loop Type Sled Runner",
+			"price": 200,
+			"new_price": 250.85
+		},
+		{
+			"id": 17,
+			"link": "google.com",
+			"brand": "KRAFT TOOL",
+			"name": "Kraft Tool Duck Bill Trowel 10-inch Blade x 2-inch Heel",
+			"price": 124,
+			"new_price": 99.95
+		},
+		{
+			"id": 18,
+			"link": "google.com",
+			"brand": "KRAFT TOOL",
+			"name": "Kraft Tool Poly Mortar Pan 29\" x 29\"",
+			"price": 45.78,
+			"new_price": 55.98,
+			"flags": ["new"]
+		},
+		{
+			"id": 19,
+			"link": "google.com",
+			"brand": "SPECTRA LASER",
+			"name": "Spectra Laser Level Receiver Rod Clamp C50 fits HR500 & CR600 Receivers",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["new"]
+		},
+
+		{
+			"id": 20,
+			"link": "google.com",
+			"brand": "LITTLE BEAVER",
+			"name": "Little Beaver Post Hole Digger w/Roll Cage 8HP Honda",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["new, sale"]
+		},
+		{
+			"id": 21,
+			"link": "google.com",
+			"brand": "ABBOTT RUBBER",
+			"name": "Abbott Rubber 3\" Water Pump Hose Gasket Quick Connect Fittings",
+			"price": 1,
+			"new_price": 0.95,
+			"flags": ["new"]
+		},
+		{
+			"id": 22,
+			"link": "google.com",
+			"brand": "KRAFT TOOL",
+			"name": "Kraft Tool Concrete Fresno Bracket Swivel Action",
+			"price": 124,
+			"new_price": 99.95
+		},
+		{
+			"id": 23,
+			"link": "google.com",
+			"brand": "SPECTRA LASER",
+			"name": "Spectra Laser Level Receiver Rod Clamp C50 fits HR500 & CR600 Receivers",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["sale"]
+		},
+		{
+			"id": 24,
+			"link": "google.com",
+			"brand": "MAASDAM",
+			"name": "Maasdam 12' Replacement Cable",
+			"price": 124.85
+		},
+		{
+			"id": 25,
+			"link": "google.com",
+			"brand": "SPECTRA LASER",
+			"name": "Spectra Laser LL500-2 HL700 Kit Inch Rod",
+			"price": 124,
+			"new_price": 99.95,
+			"flags": ["new"]
+		}
+	]
+}
